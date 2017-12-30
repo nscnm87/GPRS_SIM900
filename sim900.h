@@ -38,6 +38,7 @@
 #define DEFAULT_TIMEOUT     		 5   //seconds
 #define DEFAULT_INTERCHAR_TIMEOUT 3000   //miliseconds
 
+#define ROAMING false
 
 #define DEBUG(x) 
 //#define DEBUG(x) Serial.print(x)  
